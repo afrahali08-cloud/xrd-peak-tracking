@@ -1,6 +1,6 @@
 # Peak detection and tracking in noisy XRD scans
 
-This interview-preparation project implements a classical pipeline for locating diffraction peaks and assigning consistent IDs across successive scans. It uses synthetic diffraction-like data with known peak centers and identities.
+A Python pipeline for locating diffraction peaks and assigning consistent IDs across successive scans. Includes reproducible benchmarks using synthetic diffraction-like data with known peak centers and identities.
 
 ## Run
 
