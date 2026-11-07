@@ -1,0 +1,48 @@
+{
+  "nominal": {
+    "seeds": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "scans": 800,
+    "truth_peaks": 2150,
+    "detections": 2150,
+    "matches": 2150,
+    "precision": 1.0,
+    "recall": 1.0,
+    "center_mae_deg": 0.00856571332939604,
+    "dominant_id_coverage": 1.0,
+    "pipeline_seconds": 3.641735800076276
+  },
+  "overlap": {
+    "seeds": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "scans": 800,
+    "truth_peaks": 2950,
+    "detections": 2723,
+    "matches": 2721,
+    "precision": 0.9992655159750276,
+    "recall": 0.9223728813559322,
+    "center_mae_deg": 0.010969076991025496,
+    "dominant_id_coverage": 0.8152542372881356,
+    "pipeline_seconds": 4.556639100192115
+  }
+}

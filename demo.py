@@ -99,12 +99,17 @@ def run(seeds, stress, out):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--out", type=Path, default=Path("results"))
+    parser.add_argument("--start-seed", type=int, default=21)
+    parser.add_argument("--sequences", type=int, default=5)
     args = parser.parse_args()
+    if args.start_seed < 0 or args.sequences < 1:
+        parser.error("Expected a nonnegative seed and at least one sequence")
     report = {}
     for name in ("nominal", "overlap"):
         folder = args.out / name
         folder.mkdir(parents=True, exist_ok=True)
-        report[name] = run(range(21, 26), name == "overlap", folder)
+        report[name] = run(range(args.start_seed, args.start_seed + args.sequences),
+                           name == "overlap", folder)
     output = json.dumps(report, indent=2)
     (args.out / "metrics.json").write_text(output + "\n", encoding="utf-8")
     print(output)

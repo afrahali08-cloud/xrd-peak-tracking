@@ -22,6 +22,15 @@ The command creates `results/metrics.json` and, for each scenario, an example pl
 
 ## Benchmark protocol
 
+An expanded run uses fresh seeds 100–109, totaling 1,600 simulated scans across 20 sequences. Reproduce it with `python demo.py --start-seed 100 --sequences 10 --out benchmark-expanded`. The detector settings are the same as the original run. This expands random noise realizations within the same generator.
+
+| Scenario | Scans | Precision | Recall | Center MAE | Dominant-ID coverage | Pipeline time |
+|---|---:|---:|---:|---:|---:|---:|
+| Nominal | 800 | 100% | 100% | 0.00857° | 100% | 3.64 s |
+| Crossing peaks | 800 | 99.93% | 92.24% | 0.01097° | 81.53% | 4.56 s |
+
+Measured on the local Windows machine with Python 3.10.6 and the pinned dependencies. Runtime varies by machine and load. Full metrics and one example sequence per scenario are in `benchmark-expanded/`. Every sequence can be regenerated from its seed.
+
 Seeds 21–25 generate 80 scans each per scenario, with 651 points per scan, a curved background, additive Gaussian noise, asymmetric peaks, drift and peak appearance/disappearance. The overlap case adds a crossing peak and higher noise. The same thresholds are used in both cases. The generator and detector were developed together. These runs characterize this simulation and do not estimate field accuracy.
 
 Precision and recall use one-to-one matching within 0.08° per scan. Center MAE uses only matched peaks. Dominant-ID coverage counts, for each true peak in each sequence, how many observations matched its most frequently assigned ID, divided by all true observations. This penalizes gaps and fragmentation and can miss identity merges. Runtime includes detection and tracking and excludes generation, scoring, and plotting.
