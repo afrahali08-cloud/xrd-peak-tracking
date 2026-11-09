@@ -1,0 +1,1378 @@
+{
+  "doi": "10.5281/zenodo.14279434",
+  "source_url": "https://zenodo.org/api/records/14279434/files/opxrd_in_situ.zip/content",
+  "source_md5": "0ab26d52fedde4dae422ddcce8625df9",
+  "license": "CC-BY-4.0",
+  "subset_sha256": "47372ca9544bdfcbc8f8d5a7677c59dec6f097011f134b8d5791c458d1707b66",
+  "selection": "All JSON patterns under sutter-fella_heymans_0/",
+  "members": [
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_0.json",
+      "sha256": "b50d548d84b44bc80daf8e78064d0cd394b82fb39bbdb3a512290ddc20c1ac79"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_1.json",
+      "sha256": "f07f63e8f9dc23ad1c26381a502f910490149f9abf42177f5b2f62e6b357858e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_2.json",
+      "sha256": "6bca507ce408bb3fc1f64308fedf7c83648391864d869c96a4a785314c7c810e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_3.json",
+      "sha256": "6fb8dab7aa08c71f8e804c715aebbe2bf9e70f6d703051c1645bff4ac1e41a6d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_4.json",
+      "sha256": "de3cdc7955fff93644ffa5db359310d6e9e7ed9d5948133a5b982043518091ad"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_5.json",
+      "sha256": "bb5bcfdcd700e574fe57f379a4c4e64c9b2cb043528125dea3a5f910f345c2e3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_6.json",
+      "sha256": "776ebbff5ed608d6c3a796f6779611088854b65f923d67976e67ea0191a78ccf"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_7.json",
+      "sha256": "16da3f8423fb58ed46eb7e8aae026c4442dce96fd83bb12f57eec7c5bbd30096"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_8.json",
+      "sha256": "2919f83303aeac0bdb232172eb5706d49382f7567483e54a55d69ccd721fbc7d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_9.json",
+      "sha256": "c2f9b90b367c0311a5477b2a39e3e743e948e42e3255d3448d82cb9d6a76a0ea"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_10.json",
+      "sha256": "9c93a506771a38e6f39dd601a38a523af2689a5ba436b6e28ec1d63b5fb7ee42"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_11.json",
+      "sha256": "1bd0e50ff0320f37223ead5927eae799f7bf2c1e120c4fc591f8bee14b49d9a5"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_12.json",
+      "sha256": "61ba9cf512c2a44ba0e84cd127ccf7ae09b7a2a9909cafbfda617afa862470bf"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_13.json",
+      "sha256": "b5f464efc37b363ce82d5f5ee2c27f84c369af38261c24662fa08387a7388f61"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_14.json",
+      "sha256": "c74eb568155e0d128ccba8c2cb192ccfa223bd26da89b0cc59ddbb4d87e3a985"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_15.json",
+      "sha256": "37e844f17e976ed115865f9799d78041b8f8077aebcbbb1cca562eece3e834af"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_16.json",
+      "sha256": "8feaeef2e24380a32ce4904d21113b0cb1e6f03e47215d248f8f7f8e5ff192c7"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_17.json",
+      "sha256": "96c41154012c75fe02a4679d126bcefa5affb7a1573fada016d25138ceb51080"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_18.json",
+      "sha256": "cf00a428ca46273592fc1296e544c7b16849c3688cece4223c5a939ea719e72e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_19.json",
+      "sha256": "de6cdcfbf568bbafc856caa936ef8079b39adc06147b01b27f1e3db5cf18c88a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_0_20.json",
+      "sha256": "21f2a6fc30eda357bfdc20817f2eee57e3a82884d816bd237fb6730da0a828f3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_0.json",
+      "sha256": "d4d2c726d159538d5d159f15e3004277af9d0ea9a5de2fb2f51b14e3fcd896f9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_1.json",
+      "sha256": "d9d5525f7f1c549500b287ec4f8653f9eb54251d271e6c7f9bf8df03141f241c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_2.json",
+      "sha256": "34b6e213321425f23a3a43e49031de0bdbdf6659562c85ff55eaaba7efc9b678"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_3.json",
+      "sha256": "3e6335ed47d52d8b32a7b91ab8d496d603c793c126211d25768a28bfcb301825"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_4.json",
+      "sha256": "364823e1670c25e3a9868ba39b8676f522dbe72bcd673dfc3676e9bf4978ae06"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_5.json",
+      "sha256": "5fa6580079763b1c2255e26b8575603ca73ff646b35913265a54e50d0f98e6a5"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_6.json",
+      "sha256": "7e8c3746c95b8056a25c0858a6fe92cf2fe2ccd7605ac2e9026205df0eaa9d06"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_7.json",
+      "sha256": "0c32d13c7cc5db1129571c63a0005074fd740dc9cfc52ae26b01c6eb3f00625b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_8.json",
+      "sha256": "c9a3280071f423bc1b70c00a0e64f84968adec252db4dbb45c099bdd8157465c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_9.json",
+      "sha256": "a04e724f79155e674a89581767398ed48f00c187418d996384edb12e70eb85ef"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_10.json",
+      "sha256": "2a42fab0d04b554441f874600efc5a4a92419bd403cf4d0633e1a22c5102b6be"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_11.json",
+      "sha256": "fe5f2b43b14f2a6054d1de58bda403f922bbf5d58749f3641c220b25033229eb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_12.json",
+      "sha256": "fd07275aa094eaf78e078befdb9f299795d18e987a81072fc8bf356fa43d8c8c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_13.json",
+      "sha256": "40c1e6cf7e798f9dd941f4366d4d2ad323da800bab27a413f7e0b869912a6e1a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_14.json",
+      "sha256": "824c7b726106481d11ca002a15e1c21dba3e25584bb618f05dcdcb0d7ccbbc10"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_15.json",
+      "sha256": "0d238e0dfc34e539b45c56ba092c34954ce95d606e5770fe196b20ae23a4dcbe"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_16.json",
+      "sha256": "ab1fbbfeb2bb7606e2daee5f6165ecb12c1816b1c0949c4fbfc51b5f09949359"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_17.json",
+      "sha256": "067682594ac32f376f1e36b84986a8461288e1bae3a98fa7c9de7a6802c9bcce"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_18.json",
+      "sha256": "7cd22d1de98786f69b5ddfd73801096730ae71f36cefb0fc65b9797503589cd0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_19.json",
+      "sha256": "c6889484c1a148c2e3bd76d0cae65d14b90ec9e74e5eb9e9fa82ed48973f8089"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_1_20.json",
+      "sha256": "79361531ea53ff8f578756f842c23f7d3d49a90c92b1ab2124f130dade8c4f76"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_0.json",
+      "sha256": "715766d7169ec46f5e7e463f2a44907d082c3be2e8cfc63fdb8301905ce401ac"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_1.json",
+      "sha256": "ee01a7f4532830f903a0fe185f509c2c147ae978009dfc01b90f3ab297943d5f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_2.json",
+      "sha256": "7b9196c8a59889a2c68c2a036c4741cdafbab768813487744ca35e1e5a0d3676"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_3.json",
+      "sha256": "1a3d63c583947902644ad3936174240276f5bf814974d98f3d16bafc2f9546eb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_4.json",
+      "sha256": "bca830aa3a89045328ef3ed61c873f0d23a78fc13c480c86e490ec8977b9c131"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_5.json",
+      "sha256": "2cb89446a76dae89f79748aa353aa0dde6e358abaa9dee933a7be08926191f74"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_6.json",
+      "sha256": "1b35c958a8ac734fd785fd0f8b4d7f0e74608e4211a6785a94cc744169a9ba2d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_7.json",
+      "sha256": "eb322a5c66013e123818a9eb688857aebdc0f991e0a0376d9d07b32d3d74dc10"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_8.json",
+      "sha256": "8a002e4a9782e4eec78c181d97d5861875ed30509a24a58a371e122fc015dc5c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_9.json",
+      "sha256": "9cbd556314e42a640879831ce4059c27cf9e51d8917dcf09fd1911f9af2fa3c2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_10.json",
+      "sha256": "16fa1392cb2bc69169c577802a6fd1e328be13f489f7f4240cfaf91fa1b13a16"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_11.json",
+      "sha256": "d3401f2e08b2345f0f69a5820d395d8518731b268ba9379c4fee489fb04d8d9e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_12.json",
+      "sha256": "0bf284a7449f1e4228fb8dbfee60f9eadd999c05b95934b86063d8678555b74f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_13.json",
+      "sha256": "d35e0f91f1264906ff66eb36b33db0066b5a99e0f555e3ab311ba2349ebde0b8"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_14.json",
+      "sha256": "8d7550e9e9947e3dff463f5083ed668c7d80463001b0bdf5a34807febd8a8e76"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_15.json",
+      "sha256": "7f9961f6f3ec92ec06b5022ea4c540c75465c39784af3dd5f998777806c6d817"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_16.json",
+      "sha256": "7f274712353121542cb46cadd87a458cded9efe2e00f122484bcdc6b818a1c50"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_17.json",
+      "sha256": "14fcabc2f41057a84e68a99d11be71daa00a07ef28fcf44965b17e877eae88f1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_18.json",
+      "sha256": "66255d638e00e680e9ab2eee21cd233e63b014b004ea7cd4b58e8e793efa5088"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_2_19.json",
+      "sha256": "1eab11ec0baf8a8d986a7eb6c71f6c0f6cfd05cdc6aaa9545415815f342357e7"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_0.json",
+      "sha256": "b6a7c9b5ed35008de277e4d399dd6651968711e69a68e12f15f22c6d7bcfd39c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_1.json",
+      "sha256": "24e50d21db1d16b105da18a9d12c35f6065803a365c82a9c3636f0909fd7bae3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_2.json",
+      "sha256": "07217dfc42f2b0d1abfb322ea0a1a9a689fb664fdde85ede0693cee91271a6e4"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_3.json",
+      "sha256": "d62c944e3214bb14d6995e8e93dc59c0e74dd36c051728ab14c8434e91b0d62e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_4.json",
+      "sha256": "b146fdb5de7c24a1b6104b63c70c79dea3191144bb26459aa9cfb21b6f8d2a68"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_5.json",
+      "sha256": "820c3ce781314242cc47c57b6eed6c4fbef4e5d38be9fc72a40ffef335c93007"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_6.json",
+      "sha256": "2c536e0b6e57d52c7b6426807972a04b9ec3f4e93a37273cdee02021888d9a8b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_7.json",
+      "sha256": "e9d19c7417a6e2c2a3e05b6f49fb544a94497f551bef29099e7a24a5e3b8eef9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_8.json",
+      "sha256": "22fcafa9281688d212091282cda14dc03ba0345f9c8c5f323f4a6fa7ef1756b8"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_9.json",
+      "sha256": "5e1042cb57e1589e9d7832822e28dcd435df0a74893b696cdce2ebd848702593"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_10.json",
+      "sha256": "6a473b76a1f81828003f459ce7f7ba80f7c2dfa6deb16d1a6c71a3ab6da9fd86"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_11.json",
+      "sha256": "5d6130dc5a9308e5992abae974914e2d6bf02b87e233bd309a8a2e99ca416b33"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_12.json",
+      "sha256": "1d98f2c71a96927f2f853dc0408168afc6bf7c9237d38d8184df3f4e62d57d4e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_13.json",
+      "sha256": "aa6e791b0a3e37c9baf422ace40fe07090d7c88b96332e2690b5d26024ca6b3e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_14.json",
+      "sha256": "ef05fda9637acc23c85cb2f063954f4e275156d8554c1c73c9581bdff16a8071"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_15.json",
+      "sha256": "a5712247b08cca153a6499cf259dc9a2e7715a5297fb2cbd62f517c120b5ebda"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_16.json",
+      "sha256": "a6e5870e614ffcee22567a7142e356c15c58e533479fb4bcf22e2425015f195f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_17.json",
+      "sha256": "efe626f6d86b0fa4dd6ce2c544066daa7985b1169c6696c1b216aa2500f00f64"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_18.json",
+      "sha256": "c627eeed8873f339e63903924de341c0e48769984828a75ce35ffce9b91fd465"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_19.json",
+      "sha256": "935930fd9244f8fc00f5e26a6587e6aa34e3f757bea830c042a59603aaf1bfa9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_3_20.json",
+      "sha256": "a6c5812a241ed25f1e7eeb365b69bdf1614ac534b49c33bfff774df84ef1270e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_0.json",
+      "sha256": "466edea0ed8a7805a941355c78dd21cabb6989e3f5db58e80e9eccf23f6f1134"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_1.json",
+      "sha256": "43ef7388e36fe3800ff1abb62063e5c2336b7d413289857d7f67ee71c058562e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_2.json",
+      "sha256": "e0aca072eec4eb63539cad2758e35ba31d822df6625a3b9db565efc2dff3e65a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_3.json",
+      "sha256": "d3b27538cef9e279c901b6a12166b61f45cef2c694d4e809064e3b92bc206048"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_4.json",
+      "sha256": "a78fe3662847b902750e19bcb6255a485306de15b1b4d02de3f070417717b5f2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_5.json",
+      "sha256": "e57aa858e3dd53d10781d811d30db711dc892dfca3f4d6db82b7c1719af21087"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_6.json",
+      "sha256": "15238d186e024a4c43184806170a64aad82223b3898165e081df0f99ec14083f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_7.json",
+      "sha256": "117c91028aaf4d074678113967f24319c6985388b7dd11055f5a928deae5f16f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_8.json",
+      "sha256": "bff395cb8f8fe6a6117201b0bea001b94d76ff36c81a80fc0542e8568ae69682"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_9.json",
+      "sha256": "aa22c9378b64fdc38fd73b5dfcc4b91fbbb6e1137c9a250d4a7a1938199306c7"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_10.json",
+      "sha256": "9f91643b253b395be6dbadc36979616afbc60f517458f1643a28328526d9824d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_11.json",
+      "sha256": "88ca5d5353f77b3e340da3d5fcd0a65f7f18a746c555b66d6fa6f31fdf8351c2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_12.json",
+      "sha256": "43a1b8439d091f4eb1f6314d3537e166bc96d5d2a096c9920facd3f178c1468c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_13.json",
+      "sha256": "f5c9809d670cf8c335f42975ba5f24c0cb77eebdbcc0c5ac2d7a52d7f878d59d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_14.json",
+      "sha256": "b81245a69ba53ba7edb6881fb59b7f7ccc72ecb8e67552df3a3ae71b381d72d9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_15.json",
+      "sha256": "28d09fc3df548a0d69394b5331d24147cde10b434801aefa519d17a5abbaa1b2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_16.json",
+      "sha256": "9065791bcfef8c49fd1ca5fed864e40de74e7fc71dc5feaf7a050bcc7eef39c8"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_17.json",
+      "sha256": "44ee7e74a3abff43a86d268fe0b731c7daf634ebcae24295d766b7961b2442de"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_18.json",
+      "sha256": "0713be57196775fe221f64f776dba92d7051188cb171acb70a5e233b8c1f8c76"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_4_19.json",
+      "sha256": "1e096d077d31932ad509d8e97b104e5653cd820ff4f505f7cd7a8616a0020cae"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_0.json",
+      "sha256": "6e9a5c3f645dde413b9b306fa9c2ac3fade9900fda0586d4cabbdf2dc021f1a0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_1.json",
+      "sha256": "12bcf3d6352f1dd0dd71a5776c2ae7c3b7a0b426afa5e99bbcccca333ebc8769"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_2.json",
+      "sha256": "ebe44036fa72ee4646bbe94a73f27e881d471b3119bf4158c20e56f36716fc19"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_3.json",
+      "sha256": "93738a65ab54865f74d7183f069042e0b333d5f82442e141c91b7f60c9820d2f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_4.json",
+      "sha256": "b2e530d7f4bdd12109919a2d4b091c7fc35bdc6bb4b79a2768594ff4f6316121"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_5.json",
+      "sha256": "b309a1749d902e3875e3c1aafa0d36f7fccbe4b18f096c938437e596d8261903"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_6.json",
+      "sha256": "17f2a10e67520c7ded2011fef556e33b8ca06dc928c1c404612ffc081c2d8a80"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_7.json",
+      "sha256": "b3f0c009d4db6b13c3d24fd321becf2aeb30abcceef4cfb9053ea969eea3172f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_8.json",
+      "sha256": "87fa947492989445d7b3d470796f304e654f1e20e3410bc753f90d59e91e40b6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_9.json",
+      "sha256": "f7ca610b0c08612af8d9446b23fac55f063053575fd4ba397fab0e9e36a5f8d4"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_10.json",
+      "sha256": "1ef1644bd9bf01c2dc2c9131d76a284edad19121f274d01aee85158d81a74d13"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_11.json",
+      "sha256": "123d12db3517b7986c67dc44d831cefe3494911ddb22dbffb8b55cf7ed81634b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_12.json",
+      "sha256": "bd79f4190e9a4ae292a096b73186b62337ff902ed60e533606899eaaee6be650"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_13.json",
+      "sha256": "85c62389a52c65036b17923c65a99c26363bb2c502bdef39f2287dc83eff7224"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_14.json",
+      "sha256": "4c8cc88cc1dcb91ae5573ae69d84a68ee8ec57a0ea2e30db1d9e4eb61f280f59"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_15.json",
+      "sha256": "9dadfbb6923f8740983b47e58c82d5ac29a41de188db71a3dfa6e6bbd5218b1a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_16.json",
+      "sha256": "f0d97fdb0211eb740ef7047abfff6b21480569be1526dc5eab422f4434598c87"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_17.json",
+      "sha256": "15bffd2704600b65db5ab82340afb1edd5bb4194ea8b2596e3196e91e2bf2c56"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_18.json",
+      "sha256": "da19c7b5371986339f046a9be04eafbcdd8ae8ac715431034d2b1d72db50b3e2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_19.json",
+      "sha256": "5585f039eccb2d8d669ad8f6b14ded3b95c708e121a2f3a632ea37e816b52726"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_20.json",
+      "sha256": "11b684fac488738861e142cafca495866904ca9cf13dddddc5231c98c6472b2b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_21.json",
+      "sha256": "7ef3d4110b0fd9d4965fa0c40ed30c1b95709f758a6a3e5fe181a392c1d82cbd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_5_22.json",
+      "sha256": "1a9fe26ae4a2468546496beca0d37b4f61ae3ef544c9b680faff7651119ba239"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_0.json",
+      "sha256": "50f538ab7b5d5b86d2651a82c9faa51854fdb4cb38f7c395bcffb37c1377c0cd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_1.json",
+      "sha256": "ad7fbfc008ca4b358f441c23411d5fadd6a856449545e51b75a1eb4b492834cd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_2.json",
+      "sha256": "93f2b9f77f8962e5212c65e1ef685182813a6e99a41031ca176cd70c83abdb3b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_3.json",
+      "sha256": "c395cbf22e4735ad77b9fb4edbc0143ff977c5739b4cefcba6f04520fcf973ee"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_4.json",
+      "sha256": "73590ddbbd7222908d6c39b8180459c624cc4d1df4a6f58ec0cc37f70e207ebf"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_5.json",
+      "sha256": "ba3175b527de042dd58ce08dd2a6cf348186d21f4c1cb4a3e6da8a53395c71bd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_6.json",
+      "sha256": "e684179261016bd6738b114ad0b2b829cc618705c1412fccb051d476a8cbbe40"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_7.json",
+      "sha256": "b0e72f9fc7e61060e2157dbf92e7f451f0120bce21a51dc04196311a012a6b48"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_8.json",
+      "sha256": "8adbcbb71cc7080cae627e2e9c8fdbbbfb5a97d11da01fce74d1a59d26c0b9e1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_9.json",
+      "sha256": "3f36583e3b5f777ff98c1ed60d4b5182964d6f60942c147370508d36ddd054b5"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_10.json",
+      "sha256": "9704ca95cf59897386987657eff66f3bda947b185f4d633d11355bde9285194f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_11.json",
+      "sha256": "0cd29c61c39ffb39689c62b7e715dc247b78ca0d9b04597bf7b59432b73e5c93"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_12.json",
+      "sha256": "b27db69c620df23e1c89d194af08c175bce52ad8616a5de2c066a10140616664"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_13.json",
+      "sha256": "aa63da69d658143fdfb141b62e8adfb55463d94af411774c37d8a5eb4cba6f26"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_14.json",
+      "sha256": "3f7f4af362ab892afed6394aa920f9645effcc8d0d58d6045235bce45c18b1dc"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_15.json",
+      "sha256": "4d30c50b77348c51a06fc530ae85705ff1fb6938b93716e846fc5f306e574d6e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_16.json",
+      "sha256": "cddc84f5573a1ad3aae53c863a605c660e30f2e6fb9e822809d5b74dc56f7f49"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_17.json",
+      "sha256": "4c050b5a6b2ee6991d6848a841cd7fbede38325d44193902b8ea3f2cdaf0755e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_18.json",
+      "sha256": "5e80c6a9b6b2cf0117418238d2ee8f5dc85b9d4930a822b2dd52b3f76ad18e19"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_19.json",
+      "sha256": "fcf97f6ce51590d2e483e801aef8947311ec037bb5209ec85b671003cee4c632"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_20.json",
+      "sha256": "bbf256b64afd97b04524790724406aa31ad1c41794654514c8113a65a5eb156d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_21.json",
+      "sha256": "5209725eee1ed41352b6a0828b019e28e5b890ed31cf402a184244f5eeaed49c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_22.json",
+      "sha256": "09f3ba3f2d399a2c3ccae25a45d3687255524a089c0543da2ee1110570680a7e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_23.json",
+      "sha256": "daa7a9d7addb4dcffff6cf6b1f204ad4135b906d40c6e668453fb94c531ce810"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_6_24.json",
+      "sha256": "ec2e24b77d51c5956e645bd164f88ec502f6f6bbebb42d55cd6c2a26dc84dad0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_0.json",
+      "sha256": "1d1189404fc14713fe03eef17d17d510036732de64519acf5ef9974c85ee92cf"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_1.json",
+      "sha256": "d93b4f239d331f9e93ddcb67296d4119fa505f67a081e9bb8d0ca8425c8e34d1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_2.json",
+      "sha256": "a8f168ff39b367d22c60ffadc395726125828bee6e233cd3f490fed5775ddedb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_3.json",
+      "sha256": "1a7d7844f32f87633916b17fd65edbecd12eed894200d17ca2793dc6e1fb644b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_4.json",
+      "sha256": "85202867c467219dbf9e9dddaf259c817711dab40d36b664bcdc557662354a2e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_5.json",
+      "sha256": "6cdde8ec359a4cf128f3d8649ea90307ad4b36b2b4582caff3a08076a623085b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_6.json",
+      "sha256": "c7c2a65ece85a3cce35e401fe46846c36f106f26299326d46d6fe0ec0bdcdd99"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_7.json",
+      "sha256": "0bd6ca08e1a7c1d58c32889a40e827eacee70772cae37cd2082d171e281df0ef"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_8.json",
+      "sha256": "5fa6e4febe541cf7b79196aac3f534022a0f8282b48282f87feb6901ef8450b0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_9.json",
+      "sha256": "83b4b76e5d71ecb4af5f8d965950da27d32216fbb13dcde1201479511bf05c79"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_10.json",
+      "sha256": "0bdf5ba3c0414b15bced5a0e26f7c5cd04e445b426a279b5472cdaca7e57efc0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_11.json",
+      "sha256": "ef73a3367b36df3931a01a7b06c31841beb26f788aa8cff014d8d38841773a83"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_12.json",
+      "sha256": "41f876529587cb0ffd39569802132802c146ea8386fcf1dc36940c13b8c9b2c0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_13.json",
+      "sha256": "40b652b95afcc4ad9f017e9bfc06052fe403da73d82ec04e7076eff3fc635db8"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_14.json",
+      "sha256": "91af75ba5a5c77465d2bb3c1fe8bd28d5343bcf66661b773fd2a3769948992f3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_7_15.json",
+      "sha256": "7b66b70c1315ca67a890b10deca0cfd898c749dc15022eb99691fdd4eaa67f22"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_0.json",
+      "sha256": "6e638e77113d51342ef21dc6bf392008fbed22f817e5bd015788edcd11c8b645"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_1.json",
+      "sha256": "d7296867d6c1e970dda3e606169a6ab3b7b1dc941333422323ad25df599527f3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_2.json",
+      "sha256": "f1ae3535eee523fcb347cfdf2a8f2de743f3574ed316bf11c3dcbe0e1b23a9d6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_3.json",
+      "sha256": "7601e3a3429094c73d3009a3c46dc21c8e925a980b122dbf7221eda522e90a97"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_4.json",
+      "sha256": "e9dad64fe280a057a52836de25d2c5f063dc57498839ed4817ef6c341c38419d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_5.json",
+      "sha256": "c489509ec4d3620508341cfe2350b102be93a88bccd6456a16ede236a0640c2a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_6.json",
+      "sha256": "61d25f9944e418cc15e773999576c59873ddd1f9aabf7b0d9ba78c36e0889655"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_7.json",
+      "sha256": "1a718c8d53bb9c917fffccd8a62762f548589d6c77839efb7b3d069edb9f0863"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_8.json",
+      "sha256": "ab79a16d1c882ab7110e53cb61005a53cd0448364c6ce6034bd9af4684f3ce92"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_9.json",
+      "sha256": "b71c28b846d94eaab15ce8ee85bac146ee1511766a0d75bb947aec2b348f802e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_10.json",
+      "sha256": "58357ab39f777fc360d080ab8d3c4a12b3966b5f75d2ef21de99291e8bc86fba"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_11.json",
+      "sha256": "f69c8cd820f6ec6d7fc7a8c1bcb2307942bf654cc886b2cba7fe244f16044853"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_12.json",
+      "sha256": "739fe26b08d6f07fcbfbf729e14022acd7bea1b3c186f8a0617fd275232fce4b"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_13.json",
+      "sha256": "41a3b88969e0d8d51ee292e695eaf3e3c56b361005e5963447493e65f0ff2396"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_14.json",
+      "sha256": "57ddea0fe4f08f9f2d50b488e627aeb07e50c921dd54fd478151532cee0f33fe"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_15.json",
+      "sha256": "904f564ea7f8f7ab3dfcfa68066fbf1c062259a198aa30cd117f8165540742e9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_16.json",
+      "sha256": "0e3fd919e1d1fc80e4bafb755c3d0a763fc2da72b3701f18384c712a0b2ce885"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_17.json",
+      "sha256": "8f7ed2f400473e3443ce544e3ab86a40094040f06d35257f1fe236c84f8a0ef9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_18.json",
+      "sha256": "535133f14a89628ee9bcabae142d533b2c77207ed6ba4c4568d1f099646b1dab"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_19.json",
+      "sha256": "03ea246b1aeb27eb200f38bfe2a70fbc83edec16ce59af45f406b14cc55fc143"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_20.json",
+      "sha256": "59b9993a8b8853460382d7d93953d020187c32fe6b46f6c63a309b8b4f32edc3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_21.json",
+      "sha256": "66b4df0a28684056d0ec123589a30592c5a607701efccc254dafdd42ea6da60e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_22.json",
+      "sha256": "d2088a9a5d2cdee7b6d7078f964abab10c9756d18f59e614c8f1c7034606c25c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_23.json",
+      "sha256": "189851091c02327b960bbff0fe73b48c0f5c2925f3b4f3338a6a8226666a98c3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_24.json",
+      "sha256": "670a4b01cbce9444af07164ff029b6524d30d262da8576ca1d8cd9246f48aabb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_25.json",
+      "sha256": "68fa36db832cc323130f990e3bf954f348ba77872de93d5ba68c30b233270740"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_26.json",
+      "sha256": "dbced387db18c5d6adc4a750dcb83aa909eebedb8c798c699c6bdabd286aa829"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_27.json",
+      "sha256": "35124a34637d8256d3f17a6fb696a11e5595e9a5f6da9aaca15a8c1de9fb0039"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_8_28.json",
+      "sha256": "2d613c187742a20cdca89aff79089c9b0d068bc324b45a243f1ad1d2945a88a3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_0.json",
+      "sha256": "a1d3bb9954e764fb4e2c38019d4f7767d211e25b477d51408ca62e8212400404"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_1.json",
+      "sha256": "a6bd054574f4fcea53b8e36eed58e26afef1308d0555ecd7ad5ce10dad1bb706"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_2.json",
+      "sha256": "bd1915e84e408a3811f6c433d3914a27856712827e5524a4f8577cf77f0f68a2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_3.json",
+      "sha256": "9a9ff3d9fa0bbe8486cdc8dd467f26bfdd9d5867246db3b78c9de6f1571b665e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_4.json",
+      "sha256": "dfe52d78c3995db688fd95e01b4aeec46679db08339cea29f8b96dc37d8b40e6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_5.json",
+      "sha256": "62f7d799c0b84773cfe06d77a48ba0e55dde23638a1109bf4bf2bf938d3faa9a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_6.json",
+      "sha256": "0bfa61996084b21112971fa8c1dbe66ebccc0d9aba7da9fe535528f2a1fcd5d2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_7.json",
+      "sha256": "2b11b79d1b875c5e9c51ea0e87862911a05695043be4685c35d3e6a2c426ffd6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_8.json",
+      "sha256": "6447c17929d6be8ce5c4df706ea0697123a68fd69210510e017a626cc053f668"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_9.json",
+      "sha256": "bd9747d0f5bc1aa2c326b4c6e80e961eedc638ae205363be2863c0f4884a7575"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_10.json",
+      "sha256": "0721297505abf073225a4a13c3f6049a7076a59e1ef20837da5750b0cec0a89c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_11.json",
+      "sha256": "f9571289b8e50925cce1bee894ce173b73998b98a474e9a0646283526934ff5f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_12.json",
+      "sha256": "657d3dc5816370ed1c63ac82871736cded041467735656ceb2d4c229b1a294c9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_13.json",
+      "sha256": "063bd00fb2eb4f452a4fc18cf9df717203f4dffd41b6fa27a9b58a7297a1f656"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_14.json",
+      "sha256": "68e33b4b4c261f0fd8866ce96db4af7205454a9c726fd2227f248e3ae9bc6452"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_15.json",
+      "sha256": "f3c1bd1a83399fff2638c44a35190c6216751070370d51182412e8ae54f826e1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_16.json",
+      "sha256": "a0d68521fd0fa61bcf11a42e11c26098a37129f705c28222f7917a85c25d9757"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_17.json",
+      "sha256": "5e34671cfd07fd30496a4b92d5a1f5633e16053c637379ee2dd47a2abe893880"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_9_18.json",
+      "sha256": "0424b5bee6f05b90f97bcd200a7519f3739b54c280b6f9f436430beb95cc7ba0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_0.json",
+      "sha256": "b431d156d0ece650003fc8408274f91de6c48f28e8152e07b9d25499d90f5b26"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_1.json",
+      "sha256": "18559ecbef6bf0606f5d2d4db00a8e788a99e1fecefbdb21b8e5fd50bc13df3e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_2.json",
+      "sha256": "f5f610b8552dec9dc0d1160107e7e5fa938b7e288b3f9558fb72849274b5de40"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_3.json",
+      "sha256": "fddef4768d5b46024e43f5790bb3ef0a9d5706033ef949b3223e70fb18d9f3bc"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_4.json",
+      "sha256": "dbab6aa6ff26ee277f4706bd35be30fec5c4dac48336c19f665ca90fd839bd87"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_5.json",
+      "sha256": "a8311dc58e908f97329847e15326de7c63a94bc336e3f30a24098950cf64eeb6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_6.json",
+      "sha256": "9c731e4bb50585a8bc163dad4fb9dd26de3d4f98c280af307d7712eeae508334"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_7.json",
+      "sha256": "e62494302ac782df82c4b3400dffdf314879a7c421f78f197eca3e9126c223cc"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_8.json",
+      "sha256": "9bf1fed1674458ab86f553e85392aa5474505813c091675348f26bb4ead38495"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_9.json",
+      "sha256": "373cdd54f1e23f423b1d40ed50fd4097c29204aeebd002730291854996c631b7"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_10.json",
+      "sha256": "e1b6c821fad2c532051fdb0ae948ad75354f930467abe3c3e008ab2e28e3a984"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_11.json",
+      "sha256": "bf082327592a808a5547f17f0e862149fb799bf289873bb0b5c2c881a54e4904"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_12.json",
+      "sha256": "78e5f05f7477e9f52ace68b31b5d9f15446d7390ed93a2ca524ced543f1ac1be"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_13.json",
+      "sha256": "7942de4171f4e29fd4c6700326425cc37b22b1e16137941308812813ad5eb267"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_14.json",
+      "sha256": "0bbb1cb59d47213c6b2a3375f82ce8c975e9599d1554029a06c5fb49bce9dc32"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_15.json",
+      "sha256": "76001186f71d46ec7d4a564facb7981b2ef8989adfa82703fea2509314aa78f0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_16.json",
+      "sha256": "2d61a1963a24747bb5f294a48bac5ec8d51456001a91836884d19853bbfa9afa"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_17.json",
+      "sha256": "139e142e8f1845bf84a30a32b628e2152ea53ce7961c7823209512e3216b734a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_18.json",
+      "sha256": "9a9f5ad26e749db44378f15cd95e38809bede3e6e9c6e788afd226a4badb0b7e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_19.json",
+      "sha256": "98096784171725d778cd9683e865c8ad09bfed681efff5330dc82a99af9054c9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_10_20.json",
+      "sha256": "4451828275597cb8b1cc83f512a0ff3a693b2d2ff9176800096987c6b20a52c6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_0.json",
+      "sha256": "80a75dc36204f0e45a80b2ab5ca39030af098d86e15dbacfd5a93a95f2f0175a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_1.json",
+      "sha256": "92f6aa512173dc35af19dd0e3c842f72898f1fb5a4c88bb559ec3bcf875222f9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_2.json",
+      "sha256": "fb8dfb6060ce5b5a5adb5ab33d14eea0e1477d7aff2ac27042173d96f8b96bfc"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_3.json",
+      "sha256": "a42595a3251c2160134557009d4aaf4ee9aeafef92d134fe6bff61abd8207f2a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_4.json",
+      "sha256": "46d85ac645eb5b6b700fbc9e92507f6d063af30403559c2b0b33712789622117"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_5.json",
+      "sha256": "83772c63fbf7108abbd4f04411980b3a6667fe10a809195101ae4c67b2e3241a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_6.json",
+      "sha256": "30010671306f28a92b8d0b4168b9d8a50d221d584b3e4f0fa0bc3b8ff1e7d975"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_7.json",
+      "sha256": "37ce1a7b6d227c008f2b2105ff627d763ae3ca2a93cbcba119ac8faa05de469c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_8.json",
+      "sha256": "a7b466fc43ac1f6b26f6677e1a5f9958a39ef5bbf4d018d43ceec40f868b4e8d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_9.json",
+      "sha256": "af1f66ecedd67bb1326e65c7aa8ce9ec2ee3a5c65d4577178ea674e3103c056f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_10.json",
+      "sha256": "a526aeab358f13749e789e48389f88c8b42c3b156273af89910043500c7dc7c1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_11.json",
+      "sha256": "770d469c5607173b8999ec4562d6a70911398ae2a762a411a7846f873291a1eb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_12.json",
+      "sha256": "d453f97d15b2e81f535257ef1866c216d8bd41fa36415e2d703c94749c56abb1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_13.json",
+      "sha256": "5364f3046cc6ffebab1d3fdd9758075f849570d4607f09bb2c34c5baea2e81bd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_14.json",
+      "sha256": "346dec04071f0956a2f5e2998b6aef1708583e7879320d41d929310e527f3c37"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_15.json",
+      "sha256": "cb1391de933d224c51ac763670e11639707719abc910efa35ada2f5c8afbd240"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_16.json",
+      "sha256": "cf40e338930f86d87318b653a71e761267b3960deeba2c904f9d4ddea173cb72"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_17.json",
+      "sha256": "60bd20154a5f70ee067dedfd192216a97f1466d672084c1f0dc70570bf562e8c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_18.json",
+      "sha256": "b00207fd42ea75c564f0c98a88ed9fd7a35c07e0320c702b3b527b096ea62bac"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_19.json",
+      "sha256": "5f78f9f7a03ce6fc75f343d2b9cc49de4d534543951ea0436d5287d0329d69ca"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_11_20.json",
+      "sha256": "125e26749f39cdcb6bb5beb57f1361a2c38abfd901d7f7c844ab57ea838ab8b0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_0.json",
+      "sha256": "3b0be10a17e5863e2d2659de0383b68d496f809594aea1d88701e9cb205e8be2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_1.json",
+      "sha256": "9b76f342b45ae4f9021bc111cfb3eccb46074c61b53f2a94f4ab69c2b58e49e1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_2.json",
+      "sha256": "087bd725a04e53da49b0f0be5d1fd554dd3640cf5fb1f3b39f50f0d125621938"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_3.json",
+      "sha256": "fb856958ff7c6045537351c5d27e5841bd4ead214e99a9724a482df3c5cd3752"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_4.json",
+      "sha256": "1eb705f153484938197a48f8ef9290ac3fafdc18ae55c7211ef6a089b20cc9cf"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_5.json",
+      "sha256": "159cbf657f4a6373ea7c5800ba0db077e01722fee74e14a7f43762c3de4ecea7"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_6.json",
+      "sha256": "f5bc3889de33ce398ec8d31e69f696389eb0775a6aa1ef5e98f3d986d4ef0aee"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_7.json",
+      "sha256": "6d2004efe7c9768d0bfb07172700a32645420ce038cc3cc2b8d32b3ff0efa97c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_8.json",
+      "sha256": "a010bc4f823bd5ac60644b352921c64670a398c48597be0f5cb58488f4542acd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_9.json",
+      "sha256": "4307c1aa8c21ef818cd1528f719a029143c5cad406bc88db1a023bcb2dea9941"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_10.json",
+      "sha256": "1f51b8cb0befa23bfeb46ad2468ca3dc8876a9d885386685ca3e24ee5f447bb3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_11.json",
+      "sha256": "a2b7c17f0606bcbfd6ed5e63e8e7f0377045e71f3e7b54da0ad10d44a40efe67"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_12.json",
+      "sha256": "ef01d6038cc7674b42cf399a1de7e84753885b3c8aedb57abce6f9316afdc223"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_13.json",
+      "sha256": "fec34c9b5f0533bc61d3972d12514657c3ee22c39b6ba84ce5924fd75aba3f40"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_14.json",
+      "sha256": "9e338fa94dfef4c9d618df6e5130ebbabd7d0c159529d5139a841862ffbb5049"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_15.json",
+      "sha256": "986da3c3315d740b5be95bf39c1bdf5c1fd428cc962993b28d687d8a2fe873e0"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_16.json",
+      "sha256": "d0ae5f0e360b9e67554ce1bf85e5b5117ca9bfc10c45430f1fe32427947a0d6a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_17.json",
+      "sha256": "7c9c02aa82c8ab25bdfbb2c9f1149e254dc7df2106b48a33ad3007462a5c0315"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_18.json",
+      "sha256": "295ea17dfd059e4120af3cb3cadfb0f52ace96e0501fc8d8d5e64ed539df7083"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_19.json",
+      "sha256": "fa516c1f7af5fc5e4932e3bac2b5c9f69fa24f589295b06fd5544bb6c3a7a494"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_12_20.json",
+      "sha256": "459e7254c6ed4393bf23f7b360292a59a7f0c2415ec92070f085f3fa2f97f441"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_0.json",
+      "sha256": "ed763d5f8b4d075dfe2fc1afc7514f5761d11a79394e2bf8da71e6d01e5ae0eb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_1.json",
+      "sha256": "d0dcb46770bbb2447fa8a73bc04995c58342abb17fdd476f12cc58718741ba60"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_2.json",
+      "sha256": "88d9e46117f2607ff9bef2f0456afcdd28c4fd01b851bf4a8ef884a3bf1d8334"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_3.json",
+      "sha256": "b328639dccde4dd04b287e2ed32f4349dff6a8d1e01bae38dd4f1494e806fa54"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_4.json",
+      "sha256": "ebb11939bef36607216bd0424dccd89cde1dd64f091cffc84a8ada052e531f5e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_5.json",
+      "sha256": "9ae58b208419bc733bb092370cb1e94b101d2e71d3fe3eab54914593555dd6d6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_6.json",
+      "sha256": "8e251849dec9d705c218863d2435f18f4db5da5a5d05064a1f2002cb192635d9"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_7.json",
+      "sha256": "1c8e49de75a8619389089494d32152bc4465c895bcec724e38493d13754aea73"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_8.json",
+      "sha256": "cc9d95093423a7d95cd891784aae21aeb856ad1a6049ad147a19738060763c44"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_9.json",
+      "sha256": "ca17af7dbc909ad948e5a73044e95d479c7a587827abb8663046804849998e0d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_10.json",
+      "sha256": "74b700025c9ad87603f0732b44c5959b2e5696a15dcc9ca11ee5332e94073297"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_11.json",
+      "sha256": "8404e33be54eed3402b18705760b59708c03cc7e5c51966b13173ac0fc464cd8"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_12.json",
+      "sha256": "5883408cff1d37a0ac15adf12bc9b88baaf273fbd8c2b846b852913f3c354889"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_13.json",
+      "sha256": "7c4f10746449f50903e32ba9d1405e6fc6639e68d977f1b25e03fd3270fb0c72"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_14.json",
+      "sha256": "a06dcadb9b90ad2af16cfe960e66bc4e7de10127791e4f61dcd0150f65b1ded4"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_15.json",
+      "sha256": "431990377b5cd5431cede517ea799aa702668b22414159aa3fe97d7d006e55a6"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_16.json",
+      "sha256": "6a40fce5430fd6e667ad6632532a429c393d3d1e3d0aa0edd459336e4089744e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_17.json",
+      "sha256": "a2b1ed51374a32bf34f98d5b458233b4974c2d78b963daf6d5eed102acfad07d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_18.json",
+      "sha256": "85a4d4076481a5ed835735ba5e3ed41e232ddabbd2464883df435b5144f72003"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_19.json",
+      "sha256": "49bfd24dc044ce71b2826ade47d6a559cd6011654a51f12443a915ca24e83583"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_13_20.json",
+      "sha256": "4d12dc98825c54ce0555f9e10e185c7115d5518b925ba302ae219dccf9d1d4cc"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_0.json",
+      "sha256": "1a669e46459ea39b64e6f961e1d8f02a1bd98cc8cf4a1bdf83881cb7f610bd84"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_1.json",
+      "sha256": "c54455ddc58ee8ae8580a2a4e9ee0f7985c50ecb06043f5248dc0c6e58f43241"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_2.json",
+      "sha256": "79a4633c9c73d17822eaf4e03210223d7e7eaa77050b62f1e7830f9dc3c3f8cf"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_3.json",
+      "sha256": "3dc9604dc9d366fcd8b572faf2fdd1725c31ea80f9f2e0476d522263ee01641d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_4.json",
+      "sha256": "db0e066ba1b2f0c1e9178ed0f4134089b0bb39601718e29fb9ee3804c3f9f62f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_5.json",
+      "sha256": "3cc05f30a16ade1e610a10ebb1f7f1d04ce4cced7eef725b6458313bdcf50596"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_6.json",
+      "sha256": "a0bed72b9ad71b91c4ffc1799b639a31fb76d08783f4aa6a7c9bd1ecd5712a75"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_7.json",
+      "sha256": "f868c7a05641e4f04c804cca38855d768c09fde53ec679e9ff9f73c91ac506d3"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_8.json",
+      "sha256": "faa2ef7c25ba0d911602dd9efdf642cfbe3d4b8c9b49135266d49630e90ad7f7"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_9.json",
+      "sha256": "e0e5c4a6aba4f0951b036fb437654a3bc1a50eea768b4663e460cca17c956bdd"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_10.json",
+      "sha256": "2f8e637d6ae34b6fff4e03c399a5b6a7180535f57f610ae51f48ec1bc187bd31"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_11.json",
+      "sha256": "8ae2e50780062297a8da8e8ccf946b8f4c8d1fa34abd171548d32a0ea67cc44e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_12.json",
+      "sha256": "d3a5a6ec4fc31ea963a843ac13467ad9831a8f90552e3aedccdb3fc53842ddab"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_13.json",
+      "sha256": "26f97f7fe1f6912bb957838561153ff70450214356efc0786b7974199b787bce"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_14.json",
+      "sha256": "c4456c1e5087b2108f61969c9cc1b83544211f0a4ad549fce14a189df416ad82"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_15.json",
+      "sha256": "cadee5d9b72fd2a6bced57ed11c46d0668778e57171b732e136e6986e4369b57"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_16.json",
+      "sha256": "61ba91ad621d3c05a13f69231a08a61024a03241ee78f3897d978dbb5751b31f"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_17.json",
+      "sha256": "7c8861493bf9541ff39af02448bfa2db25799632f864315b55573fff0d3acd73"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_18.json",
+      "sha256": "97f28cd7881b9f1544e8dd7ca5ec7f5e5abea7b781efbde90fb35bc18f308e2a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_19.json",
+      "sha256": "e346bcc4c27559e4657094b5e8866861870cd670824d57146492d0f6210446a8"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_14_20.json",
+      "sha256": "125428263a1ec43d85bebad525be3f80c583cb2b30518af9703e3c5f122aaa9e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_0.json",
+      "sha256": "d69b0ea509880f335c88c2702ce218d4ee3b725bb87f904d004308ccdde4271c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_1.json",
+      "sha256": "3c2434f446841bdb8b127a637bcd7823a179b22c76544cde390506f9d03662e2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_2.json",
+      "sha256": "b76e4db41e30dd0bcdfed4453cafac3cc3bac7e81f84392cb04dce4a71ee2c2a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_3.json",
+      "sha256": "84723899b931283cd0e6f749dd99dc1130457d16b70cf7ff22e2deef93bdb63d"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_4.json",
+      "sha256": "f9ed551172e8e8c7a4416fb2a09fc8c925588570e434008b3a97e51ddc4bb08a"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_5.json",
+      "sha256": "8aa2a7f3172d418065a1b11d505d7aaccef10c1d9fba9f9e02d110e373872432"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_6.json",
+      "sha256": "2a9a7dc4d4e0b1661b052dfbed81a5e249d526f7dec5edffc721f2785758c17c"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_7.json",
+      "sha256": "f80575eee6a37baa1cbb26ae8fdee3ea12da4a5d39bb2a40f51a39212c5c14bc"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_8.json",
+      "sha256": "47390d0b5288e1e5060d2c42ae84bdebc7526939221bb38aa5eec5677ddf9246"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_9.json",
+      "sha256": "add197372f1d9b10a8f5b3d58df7bfec0e371b70d9b99aee9246c175f6f6c476"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_10.json",
+      "sha256": "ab2b0c7c68b618a36ee3376e802f83045b795bcf52da3bacadbb3b07553975b2"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_11.json",
+      "sha256": "105bc00b8d427879b4e30e5aa9bc6b0275596ac44dae8fa2de2eca0e9c63b98e"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_12.json",
+      "sha256": "97b66cdcf7bacd3aa864bff08591660787cc86dd202b895b45573d92bfb16220"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_13.json",
+      "sha256": "8014050432eb62aefbadcd48ed25991d89560cb4cf339b36cfad786a6fafe274"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_14.json",
+      "sha256": "0975718173c560c50b11f1fe0d54e70ea1d2b7a4309138b669d05301e3c72deb"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_15.json",
+      "sha256": "37f247758c0d9457a0bd9c8069d434780b45f22e9a8e3d2322cd185606b43c92"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_16.json",
+      "sha256": "0c4ba45a61ff8783a5967ee208e1a109f14f1b3ffee47db3339d2d6c36812672"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_17.json",
+      "sha256": "ffba09d7f523ef50b1f53d0076bc332cc2baee5b8dda2d32944b010dcb272669"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_18.json",
+      "sha256": "40ec1c7032ca89d47ba1983599b0bf588da6a3c68878dd2f77b6dd2a5e9c1c92"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_19.json",
+      "sha256": "a0cda27ba4f3343366e96838d529a41daebf81a6001f0592445097565341cad1"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_20.json",
+      "sha256": "cbce828630b63b1d57e410502d8221e82e29c5cc45ac8bf6883a60d928f58488"
+    },
+    {
+      "member": "sutter-fella_heymans_0/pattern_group_15_21.json",
+      "sha256": "daf5c84ff9dc62694ad524d19165f782fae5b527fdba667ccff5bf26197d776e"
+    }
+  ]
+}

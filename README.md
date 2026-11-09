@@ -1,6 +1,6 @@
 # Peak detection and tracking in noisy XRD scans
 
-A Python pipeline for locating diffraction peaks and assigning consistent IDs across successive scans. Includes reproducible benchmarks using synthetic diffraction-like data with known peak centers and identities.
+A Python pipeline for locating diffraction peaks and assigning consistent IDs across successive scans. Includes a public experimental opXRD subset and reproducible synthetic benchmarks with known peak centers and identities.
 
 ## Run
 
@@ -14,7 +14,25 @@ python demo.py
 
 The command creates `results/metrics.json` and, for each scenario, an example plot, an NPZ of simulated scans, and CSVs of ground-truth peaks and estimated tracks. `benchmark/` contains a checked-in run. To process an external scan, pass increasing, uniformly sampled 2θ angles and finite intensities to `detect(angles, intensities)`. Call `Tracker.update(frame, centers)` once per scan in frame order. The constants in `detect` are calibrated to the demo's angular sampling, peak widths and intensity scale.
 
-## How it works
+## Public experimental dataset
+
+The repository includes **342 experimental diffraction patterns** from the Heymans/Sutter-Fella contribution to opXRD v4, distributed under CC BY 4.0. They cover 16 source groups, each with a 15–60° angle range sampled at 0.01°. The approximately 10 MB subset includes original JSON records and a checksum manifest. [Dataset provenance and license](data/README.md)
+
+Run the public-data demonstration offline with the same installed dependencies.
+
+```sh
+python public_data.py
+```
+
+The command saves detection CSVs, a summary JSON and an experimental plot in `results/public/`. The checked-in run in `benchmark-public/` processed all 342 patterns, producing **850 detected peak observations in 3.58 seconds** of detection and tracking time on the local machine. Loading, intensity scaling, scoring and plotting are excluded from that timing. There is no accuracy scoring for this subset.
+
+![Experimental scan and source-index associations](benchmark-public/experimental.png)
+
+Processing scales intensities consistently within each source group, uses the existing detector and resets the tracker between groups. Numeric source indices determine within-group ordering. Acquisition times and temporal continuity are unverified, and the source lacks hand-labeled peak centers and track IDs. The associations are exploratory, and detection/identity accuracy remains unevaluated. The fixed threshold misses weaker features visible in the plot.
+
+Rebuild the subset with `python public_data.py --download`, which downloads the pinned 373 MB source archive and verifies its published checksum. The complete selection rule, source attribution, preprocessing and limits are documented alongside the data. [Original dataset](https://doi.org/10.5281/zenodo.14279434)
+
+## Pipeline algorithms
 
 1. **Smooth and estimate background.** An 11-sample, degree-three Savitzky–Golay filter fits a local polynomial. Grayscale opening takes a running minimum followed by a running maximum over a window about 1.1° wide. This suppresses positive features narrower than the window to estimate a slowly varying background. Broad peaks and scan boundaries can bias this estimate.
 2. **Find candidates and refine centers.** SciPy finds local maxima in the smoothed, background-subtracted signal and filters by prominence and spacing. Within ±0.19° of each candidate, bounded least squares fits the unsmoothed, background-subtracted intensities. The pseudo-Voigt is a weighted sum of Gaussian and Lorentzian profiles that share a center and full width at half maximum. The local fit estimates four parameters: height, center, width, and mixture fraction. A fit that reaches its evaluation limit falls back to the candidate location.

@@ -1,0 +1,2084 @@
+{
+  "dataset_doi": "10.5281/zenodo.14279434",
+  "subset_sha256": "47372ca9544bdfcbc8f8d5a7677c59dec6f097011f134b8d5791c458d1707b66",
+  "experimental_patterns": 342,
+  "source_groups": 16,
+  "detected_peak_observations": 850,
+  "pipeline_seconds": 3.577680099995632,
+  "intensity_scaling": "100 * raw / maximum raw intensity within source group",
+  "group_intensity_maxima": {
+    "0": 756.2728,
+    "1": 281.4785,
+    "2": 766.2748,
+    "3": 1420.431,
+    "4": 405.0634,
+    "5": 75013.01,
+    "6": 170226.2,
+    "7": 117880.6,
+    "8": 92617.76,
+    "9": 690.4276,
+    "10": 430.5401,
+    "11": 688.7571,
+    "12": 334.9185,
+    "13": 464.8739,
+    "14": 321.7561,
+    "15": 286.4704
+  },
+  "accuracy": null,
+  "accuracy_note": "No hand-labeled peak centers or track IDs supplied for this subset.",
+  "ordering_note": "Numeric source indices within each group; physical timing and temporal continuity unverified.",
+  "patterns": [
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_0.json",
+      "group": 0,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_1.json",
+      "group": 0,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_2.json",
+      "group": 0,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_3.json",
+      "group": 0,
+      "source_index": 3,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_4.json",
+      "group": 0,
+      "source_index": 4,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_5.json",
+      "group": 0,
+      "source_index": 5,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_6.json",
+      "group": 0,
+      "source_index": 6,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_7.json",
+      "group": 0,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_8.json",
+      "group": 0,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_9.json",
+      "group": 0,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_10.json",
+      "group": 0,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_11.json",
+      "group": 0,
+      "source_index": 11,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_12.json",
+      "group": 0,
+      "source_index": 12,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_13.json",
+      "group": 0,
+      "source_index": 13,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_14.json",
+      "group": 0,
+      "source_index": 14,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_15.json",
+      "group": 0,
+      "source_index": 15,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_16.json",
+      "group": 0,
+      "source_index": 16,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_17.json",
+      "group": 0,
+      "source_index": 17,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_18.json",
+      "group": 0,
+      "source_index": 18,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_19.json",
+      "group": 0,
+      "source_index": 19,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_0_20.json",
+      "group": 0,
+      "source_index": 20,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_0.json",
+      "group": 1,
+      "source_index": 0,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_1.json",
+      "group": 1,
+      "source_index": 1,
+      "peaks": 6
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_2.json",
+      "group": 1,
+      "source_index": 2,
+      "peaks": 8
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_3.json",
+      "group": 1,
+      "source_index": 3,
+      "peaks": 10
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_4.json",
+      "group": 1,
+      "source_index": 4,
+      "peaks": 11
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_5.json",
+      "group": 1,
+      "source_index": 5,
+      "peaks": 11
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_6.json",
+      "group": 1,
+      "source_index": 6,
+      "peaks": 14
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_7.json",
+      "group": 1,
+      "source_index": 7,
+      "peaks": 10
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_8.json",
+      "group": 1,
+      "source_index": 8,
+      "peaks": 12
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_9.json",
+      "group": 1,
+      "source_index": 9,
+      "peaks": 13
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_10.json",
+      "group": 1,
+      "source_index": 10,
+      "peaks": 9
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_11.json",
+      "group": 1,
+      "source_index": 11,
+      "peaks": 11
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_12.json",
+      "group": 1,
+      "source_index": 12,
+      "peaks": 17
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_13.json",
+      "group": 1,
+      "source_index": 13,
+      "peaks": 15
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_14.json",
+      "group": 1,
+      "source_index": 14,
+      "peaks": 7
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_15.json",
+      "group": 1,
+      "source_index": 15,
+      "peaks": 11
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_16.json",
+      "group": 1,
+      "source_index": 16,
+      "peaks": 11
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_17.json",
+      "group": 1,
+      "source_index": 17,
+      "peaks": 12
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_18.json",
+      "group": 1,
+      "source_index": 18,
+      "peaks": 16
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_19.json",
+      "group": 1,
+      "source_index": 19,
+      "peaks": 8
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_1_20.json",
+      "group": 1,
+      "source_index": 20,
+      "peaks": 9
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_0.json",
+      "group": 2,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_1.json",
+      "group": 2,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_2.json",
+      "group": 2,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_3.json",
+      "group": 2,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_4.json",
+      "group": 2,
+      "source_index": 4,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_5.json",
+      "group": 2,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_6.json",
+      "group": 2,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_7.json",
+      "group": 2,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_8.json",
+      "group": 2,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_9.json",
+      "group": 2,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_10.json",
+      "group": 2,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_11.json",
+      "group": 2,
+      "source_index": 11,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_12.json",
+      "group": 2,
+      "source_index": 12,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_13.json",
+      "group": 2,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_14.json",
+      "group": 2,
+      "source_index": 14,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_15.json",
+      "group": 2,
+      "source_index": 15,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_16.json",
+      "group": 2,
+      "source_index": 16,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_17.json",
+      "group": 2,
+      "source_index": 17,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_18.json",
+      "group": 2,
+      "source_index": 18,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_2_19.json",
+      "group": 2,
+      "source_index": 19,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_0.json",
+      "group": 3,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_1.json",
+      "group": 3,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_2.json",
+      "group": 3,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_3.json",
+      "group": 3,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_4.json",
+      "group": 3,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_5.json",
+      "group": 3,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_6.json",
+      "group": 3,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_7.json",
+      "group": 3,
+      "source_index": 7,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_8.json",
+      "group": 3,
+      "source_index": 8,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_9.json",
+      "group": 3,
+      "source_index": 9,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_10.json",
+      "group": 3,
+      "source_index": 10,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_11.json",
+      "group": 3,
+      "source_index": 11,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_12.json",
+      "group": 3,
+      "source_index": 12,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_13.json",
+      "group": 3,
+      "source_index": 13,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_14.json",
+      "group": 3,
+      "source_index": 14,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_15.json",
+      "group": 3,
+      "source_index": 15,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_16.json",
+      "group": 3,
+      "source_index": 16,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_17.json",
+      "group": 3,
+      "source_index": 17,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_18.json",
+      "group": 3,
+      "source_index": 18,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_19.json",
+      "group": 3,
+      "source_index": 19,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_3_20.json",
+      "group": 3,
+      "source_index": 20,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_0.json",
+      "group": 4,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_1.json",
+      "group": 4,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_2.json",
+      "group": 4,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_3.json",
+      "group": 4,
+      "source_index": 3,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_4.json",
+      "group": 4,
+      "source_index": 4,
+      "peaks": 8
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_5.json",
+      "group": 4,
+      "source_index": 5,
+      "peaks": 7
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_6.json",
+      "group": 4,
+      "source_index": 6,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_7.json",
+      "group": 4,
+      "source_index": 7,
+      "peaks": 9
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_8.json",
+      "group": 4,
+      "source_index": 8,
+      "peaks": 6
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_9.json",
+      "group": 4,
+      "source_index": 9,
+      "peaks": 6
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_10.json",
+      "group": 4,
+      "source_index": 10,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_11.json",
+      "group": 4,
+      "source_index": 11,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_12.json",
+      "group": 4,
+      "source_index": 12,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_13.json",
+      "group": 4,
+      "source_index": 13,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_14.json",
+      "group": 4,
+      "source_index": 14,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_15.json",
+      "group": 4,
+      "source_index": 15,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_16.json",
+      "group": 4,
+      "source_index": 16,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_17.json",
+      "group": 4,
+      "source_index": 17,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_18.json",
+      "group": 4,
+      "source_index": 18,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_4_19.json",
+      "group": 4,
+      "source_index": 19,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_0.json",
+      "group": 5,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_1.json",
+      "group": 5,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_2.json",
+      "group": 5,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_3.json",
+      "group": 5,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_4.json",
+      "group": 5,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_5.json",
+      "group": 5,
+      "source_index": 5,
+      "peaks": 0
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_6.json",
+      "group": 5,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_7.json",
+      "group": 5,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_8.json",
+      "group": 5,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_9.json",
+      "group": 5,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_10.json",
+      "group": 5,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_11.json",
+      "group": 5,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_12.json",
+      "group": 5,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_13.json",
+      "group": 5,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_14.json",
+      "group": 5,
+      "source_index": 14,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_15.json",
+      "group": 5,
+      "source_index": 15,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_16.json",
+      "group": 5,
+      "source_index": 16,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_17.json",
+      "group": 5,
+      "source_index": 17,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_18.json",
+      "group": 5,
+      "source_index": 18,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_19.json",
+      "group": 5,
+      "source_index": 19,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_20.json",
+      "group": 5,
+      "source_index": 20,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_21.json",
+      "group": 5,
+      "source_index": 21,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_5_22.json",
+      "group": 5,
+      "source_index": 22,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_0.json",
+      "group": 6,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_1.json",
+      "group": 6,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_2.json",
+      "group": 6,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_3.json",
+      "group": 6,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_4.json",
+      "group": 6,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_5.json",
+      "group": 6,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_6.json",
+      "group": 6,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_7.json",
+      "group": 6,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_8.json",
+      "group": 6,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_9.json",
+      "group": 6,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_10.json",
+      "group": 6,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_11.json",
+      "group": 6,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_12.json",
+      "group": 6,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_13.json",
+      "group": 6,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_14.json",
+      "group": 6,
+      "source_index": 14,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_15.json",
+      "group": 6,
+      "source_index": 15,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_16.json",
+      "group": 6,
+      "source_index": 16,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_17.json",
+      "group": 6,
+      "source_index": 17,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_18.json",
+      "group": 6,
+      "source_index": 18,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_19.json",
+      "group": 6,
+      "source_index": 19,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_20.json",
+      "group": 6,
+      "source_index": 20,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_21.json",
+      "group": 6,
+      "source_index": 21,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_22.json",
+      "group": 6,
+      "source_index": 22,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_23.json",
+      "group": 6,
+      "source_index": 23,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_6_24.json",
+      "group": 6,
+      "source_index": 24,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_0.json",
+      "group": 7,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_1.json",
+      "group": 7,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_2.json",
+      "group": 7,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_3.json",
+      "group": 7,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_4.json",
+      "group": 7,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_5.json",
+      "group": 7,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_6.json",
+      "group": 7,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_7.json",
+      "group": 7,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_8.json",
+      "group": 7,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_9.json",
+      "group": 7,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_10.json",
+      "group": 7,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_11.json",
+      "group": 7,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_12.json",
+      "group": 7,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_13.json",
+      "group": 7,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_14.json",
+      "group": 7,
+      "source_index": 14,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_7_15.json",
+      "group": 7,
+      "source_index": 15,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_0.json",
+      "group": 8,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_1.json",
+      "group": 8,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_2.json",
+      "group": 8,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_3.json",
+      "group": 8,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_4.json",
+      "group": 8,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_5.json",
+      "group": 8,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_6.json",
+      "group": 8,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_7.json",
+      "group": 8,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_8.json",
+      "group": 8,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_9.json",
+      "group": 8,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_10.json",
+      "group": 8,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_11.json",
+      "group": 8,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_12.json",
+      "group": 8,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_13.json",
+      "group": 8,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_14.json",
+      "group": 8,
+      "source_index": 14,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_15.json",
+      "group": 8,
+      "source_index": 15,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_16.json",
+      "group": 8,
+      "source_index": 16,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_17.json",
+      "group": 8,
+      "source_index": 17,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_18.json",
+      "group": 8,
+      "source_index": 18,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_19.json",
+      "group": 8,
+      "source_index": 19,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_20.json",
+      "group": 8,
+      "source_index": 20,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_21.json",
+      "group": 8,
+      "source_index": 21,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_22.json",
+      "group": 8,
+      "source_index": 22,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_23.json",
+      "group": 8,
+      "source_index": 23,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_24.json",
+      "group": 8,
+      "source_index": 24,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_25.json",
+      "group": 8,
+      "source_index": 25,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_26.json",
+      "group": 8,
+      "source_index": 26,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_27.json",
+      "group": 8,
+      "source_index": 27,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_8_28.json",
+      "group": 8,
+      "source_index": 28,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_0.json",
+      "group": 9,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_1.json",
+      "group": 9,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_2.json",
+      "group": 9,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_3.json",
+      "group": 9,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_4.json",
+      "group": 9,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_5.json",
+      "group": 9,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_6.json",
+      "group": 9,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_7.json",
+      "group": 9,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_8.json",
+      "group": 9,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_9.json",
+      "group": 9,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_10.json",
+      "group": 9,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_11.json",
+      "group": 9,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_12.json",
+      "group": 9,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_13.json",
+      "group": 9,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_14.json",
+      "group": 9,
+      "source_index": 14,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_15.json",
+      "group": 9,
+      "source_index": 15,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_16.json",
+      "group": 9,
+      "source_index": 16,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_17.json",
+      "group": 9,
+      "source_index": 17,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_9_18.json",
+      "group": 9,
+      "source_index": 18,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_0.json",
+      "group": 10,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_1.json",
+      "group": 10,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_2.json",
+      "group": 10,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_3.json",
+      "group": 10,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_4.json",
+      "group": 10,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_5.json",
+      "group": 10,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_6.json",
+      "group": 10,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_7.json",
+      "group": 10,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_8.json",
+      "group": 10,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_9.json",
+      "group": 10,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_10.json",
+      "group": 10,
+      "source_index": 10,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_11.json",
+      "group": 10,
+      "source_index": 11,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_12.json",
+      "group": 10,
+      "source_index": 12,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_13.json",
+      "group": 10,
+      "source_index": 13,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_14.json",
+      "group": 10,
+      "source_index": 14,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_15.json",
+      "group": 10,
+      "source_index": 15,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_16.json",
+      "group": 10,
+      "source_index": 16,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_17.json",
+      "group": 10,
+      "source_index": 17,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_18.json",
+      "group": 10,
+      "source_index": 18,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_19.json",
+      "group": 10,
+      "source_index": 19,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_10_20.json",
+      "group": 10,
+      "source_index": 20,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_0.json",
+      "group": 11,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_1.json",
+      "group": 11,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_2.json",
+      "group": 11,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_3.json",
+      "group": 11,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_4.json",
+      "group": 11,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_5.json",
+      "group": 11,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_6.json",
+      "group": 11,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_7.json",
+      "group": 11,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_8.json",
+      "group": 11,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_9.json",
+      "group": 11,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_10.json",
+      "group": 11,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_11.json",
+      "group": 11,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_12.json",
+      "group": 11,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_13.json",
+      "group": 11,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_14.json",
+      "group": 11,
+      "source_index": 14,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_15.json",
+      "group": 11,
+      "source_index": 15,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_16.json",
+      "group": 11,
+      "source_index": 16,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_17.json",
+      "group": 11,
+      "source_index": 17,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_18.json",
+      "group": 11,
+      "source_index": 18,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_19.json",
+      "group": 11,
+      "source_index": 19,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_11_20.json",
+      "group": 11,
+      "source_index": 20,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_0.json",
+      "group": 12,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_1.json",
+      "group": 12,
+      "source_index": 1,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_2.json",
+      "group": 12,
+      "source_index": 2,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_3.json",
+      "group": 12,
+      "source_index": 3,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_4.json",
+      "group": 12,
+      "source_index": 4,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_5.json",
+      "group": 12,
+      "source_index": 5,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_6.json",
+      "group": 12,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_7.json",
+      "group": 12,
+      "source_index": 7,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_8.json",
+      "group": 12,
+      "source_index": 8,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_9.json",
+      "group": 12,
+      "source_index": 9,
+      "peaks": 6
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_10.json",
+      "group": 12,
+      "source_index": 10,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_11.json",
+      "group": 12,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_12.json",
+      "group": 12,
+      "source_index": 12,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_13.json",
+      "group": 12,
+      "source_index": 13,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_14.json",
+      "group": 12,
+      "source_index": 14,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_15.json",
+      "group": 12,
+      "source_index": 15,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_16.json",
+      "group": 12,
+      "source_index": 16,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_17.json",
+      "group": 12,
+      "source_index": 17,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_18.json",
+      "group": 12,
+      "source_index": 18,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_19.json",
+      "group": 12,
+      "source_index": 19,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_12_20.json",
+      "group": 12,
+      "source_index": 20,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_0.json",
+      "group": 13,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_1.json",
+      "group": 13,
+      "source_index": 1,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_2.json",
+      "group": 13,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_3.json",
+      "group": 13,
+      "source_index": 3,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_4.json",
+      "group": 13,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_5.json",
+      "group": 13,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_6.json",
+      "group": 13,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_7.json",
+      "group": 13,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_8.json",
+      "group": 13,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_9.json",
+      "group": 13,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_10.json",
+      "group": 13,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_11.json",
+      "group": 13,
+      "source_index": 11,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_12.json",
+      "group": 13,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_13.json",
+      "group": 13,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_14.json",
+      "group": 13,
+      "source_index": 14,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_15.json",
+      "group": 13,
+      "source_index": 15,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_16.json",
+      "group": 13,
+      "source_index": 16,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_17.json",
+      "group": 13,
+      "source_index": 17,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_18.json",
+      "group": 13,
+      "source_index": 18,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_19.json",
+      "group": 13,
+      "source_index": 19,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_13_20.json",
+      "group": 13,
+      "source_index": 20,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_0.json",
+      "group": 14,
+      "source_index": 0,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_1.json",
+      "group": 14,
+      "source_index": 1,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_2.json",
+      "group": 14,
+      "source_index": 2,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_3.json",
+      "group": 14,
+      "source_index": 3,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_4.json",
+      "group": 14,
+      "source_index": 4,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_5.json",
+      "group": 14,
+      "source_index": 5,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_6.json",
+      "group": 14,
+      "source_index": 6,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_7.json",
+      "group": 14,
+      "source_index": 7,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_8.json",
+      "group": 14,
+      "source_index": 8,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_9.json",
+      "group": 14,
+      "source_index": 9,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_10.json",
+      "group": 14,
+      "source_index": 10,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_11.json",
+      "group": 14,
+      "source_index": 11,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_12.json",
+      "group": 14,
+      "source_index": 12,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_13.json",
+      "group": 14,
+      "source_index": 13,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_14.json",
+      "group": 14,
+      "source_index": 14,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_15.json",
+      "group": 14,
+      "source_index": 15,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_16.json",
+      "group": 14,
+      "source_index": 16,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_17.json",
+      "group": 14,
+      "source_index": 17,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_18.json",
+      "group": 14,
+      "source_index": 18,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_19.json",
+      "group": 14,
+      "source_index": 19,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_14_20.json",
+      "group": 14,
+      "source_index": 20,
+      "peaks": 1
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_0.json",
+      "group": 15,
+      "source_index": 0,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_1.json",
+      "group": 15,
+      "source_index": 1,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_2.json",
+      "group": 15,
+      "source_index": 2,
+      "peaks": 11
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_3.json",
+      "group": 15,
+      "source_index": 3,
+      "peaks": 14
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_4.json",
+      "group": 15,
+      "source_index": 4,
+      "peaks": 10
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_5.json",
+      "group": 15,
+      "source_index": 5,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_6.json",
+      "group": 15,
+      "source_index": 6,
+      "peaks": 7
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_7.json",
+      "group": 15,
+      "source_index": 7,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_8.json",
+      "group": 15,
+      "source_index": 8,
+      "peaks": 9
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_9.json",
+      "group": 15,
+      "source_index": 9,
+      "peaks": 9
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_10.json",
+      "group": 15,
+      "source_index": 10,
+      "peaks": 12
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_11.json",
+      "group": 15,
+      "source_index": 11,
+      "peaks": 10
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_12.json",
+      "group": 15,
+      "source_index": 12,
+      "peaks": 7
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_13.json",
+      "group": 15,
+      "source_index": 13,
+      "peaks": 10
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_14.json",
+      "group": 15,
+      "source_index": 14,
+      "peaks": 3
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_15.json",
+      "group": 15,
+      "source_index": 15,
+      "peaks": 12
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_16.json",
+      "group": 15,
+      "source_index": 16,
+      "peaks": 6
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_17.json",
+      "group": 15,
+      "source_index": 17,
+      "peaks": 5
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_18.json",
+      "group": 15,
+      "source_index": 18,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_19.json",
+      "group": 15,
+      "source_index": 19,
+      "peaks": 4
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_20.json",
+      "group": 15,
+      "source_index": 20,
+      "peaks": 2
+    },
+    {
+      "source": "sutter-fella_heymans_0/pattern_group_15_21.json",
+      "group": 15,
+      "source_index": 21,
+      "peaks": 0
+    }
+  ]
+}
